@@ -1,6 +1,5 @@
 <?php 
 include('includes/header.php');
-include('includes/navbar.php');
  ?>
 
         <!-- Content Wrapper -->
@@ -480,8 +479,8 @@ include('includes/navbar.php');
       <!-- End of Main Content -->
 
  
-<?php 
+<!-- <?php 
 include('includes/script.php');
 include('includes/footer.php');
-?>
+?> -->
 
