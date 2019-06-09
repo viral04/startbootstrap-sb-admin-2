@@ -1,4 +1,7 @@
-
+<?php 
+include('includes/header.php');
+include('includes/navbar.php');
+ ?>
 
         <!-- Content Wrapper -->
     <div id="content-wrapper" class="d-flex flex-column">
@@ -476,11 +479,9 @@
       </div>
       <!-- End of Main Content -->
 
-
-  </div>
-  <!-- End of Page Wrapper -->
-
  
-
-
+<?php 
+include('includes/script.php');
+include('includes/footer.php');
+?>
 
