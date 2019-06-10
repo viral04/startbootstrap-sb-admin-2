@@ -210,7 +210,7 @@ include('includes/navbar.php');
                 <div class="card-body">
                   <div class="row no-gutters align-items-center">
                     <div class="col mr-2">
-                      <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">Earnings (Monthly)</div>
+                      <div class="text-xs font-weight-bold text-primary text-uppercase mb-1"> <a href="https://uptimerobot.com/login?rt=https://uptimerobot.com/#mainDashboard"> Earnings (Monthly)</a></div>
                       <div class="h5 mb-0 font-weight-bold text-gray-800">$40,000</div>
                     </div>
                     <div class="col-auto">
