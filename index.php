@@ -2,6 +2,16 @@
 include('includes/header.php');
 include('includes/navbar.php');
  ?>
+ <style type="text/css">
+   .nav-h1-text{
+    background-color: hsl(213, 72%, 47%);
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+  }
+  .nav-text{
+    width:100%;
+  }
+ </style>
 
         <!-- Content Wrapper -->
     <div id="content-wrapper" class="d-flex flex-column">
@@ -17,7 +27,10 @@ include('includes/navbar.php');
             <i class="fa fa-bars"></i>
           </button>
 
-          
+        <div class="nav-text align-items-center justify-content-between mb-4">
+            <h1 class="h10 mb-0 font-weight-bold text-black-5"><div class="nav-h1-text">Adapty Monitoring Tool</div></h1>
+            
+          </div>
 
           <!-- Topbar Navbar -->
           <ul class="navbar-nav ml-auto">
