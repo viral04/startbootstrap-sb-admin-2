@@ -109,7 +109,7 @@ include('includes/navbar.php');
                 <div class="card-body">
                   <div class="row no-gutters align-items-center">
                     <div class="col mr-2">
-                      <div class="text-xs font-weight-bold text-success text-uppercase mb-1"> <a href="http://104.211.95.200:8090/nagios/"> Nagios server </a></div>
+                      <div class="text-xs font-weight-bold text-success text-uppercase mb-1"> <a href="http://104.211.95.200:8090/nagios/" target="_blank"> Nagios server </a></div>
                       <div class="h5 mb-0 font-weight-bold text-gray-800">Nagios Monitor</div>
                     </div>
                     
@@ -124,7 +124,7 @@ include('includes/navbar.php');
                 <div class="card-body">
                   <div class="row no-gutters align-items-center">
                     <div class="col mr-2">
-                      <div class="text-xs font-weight-bold text-info text-uppercase mb-1"> <a href="http://104.211.95.200:10000/#/containers"> Docker Devlopment </a></div>
+                      <div class="text-xs font-weight-bold text-info text-uppercase mb-1"> <a href="http://104.211.95.200:10000/#/containers" target="_blank"> Docker Devlopment </a></div>
                       <div class="row no-gutters align-items-center">
                         <div class="col-auto">
                           <div class="h5 mb-0 mr-3 font-weight-bold text-gray-800">Devlopment Environment</div>
@@ -147,7 +147,7 @@ include('includes/navbar.php');
                 <div class="card-body">
                   <div class="row no-gutters align-items-center">
                     <div class="col mr-2">
-                      <div class="text-xs font-weight-bold text-warning text-uppercase mb-1"><a href="http://52.172.128.181:10000/#/containers">Docker Production </a></div>
+                      <div class="text-xs font-weight-bold text-warning text-uppercase mb-1"><a href="http://52.172.128.181:10000/#/containers" target="_blank">Docker Production </a></div>
                       <div class="h5 mb-0 font-weight-bold text-gray-800">Production Environment</div>
                     </div>
                     
