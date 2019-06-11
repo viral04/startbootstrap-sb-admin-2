@@ -88,7 +88,7 @@ include('includes/navbar.php');
           <!-- Content Row -->
           <div class="row">
 
-            <!-- Earnings (Monthly) Card Example -->
+            <!-- Uptime_Robot -->
             <div class="col-xl-3 col-md-6 mb-4">
               <div class="card border-left-primary shadow h-100 py-2">
                 <div class="card-body">
@@ -103,7 +103,7 @@ include('includes/navbar.php');
               </div>
             </div>
 
-            <!-- Earnings (Monthly) Card Example -->
+            <!-- Nagios -->
             <div class="col-xl-3 col-md-6 mb-4">
               <div class="card border-left-success shadow h-100 py-2">
                 <div class="card-body">
@@ -118,7 +118,7 @@ include('includes/navbar.php');
               </div>
             </div>
 
-            <!-- Earnings (Monthly) Card Example -->
+            <!-- Docker_Dev -->
             <div class="col-xl-3 col-md-6 mb-4">
               <div class="card border-left-info shadow h-100 py-2">
                 <div class="card-body">
@@ -141,7 +141,7 @@ include('includes/navbar.php');
               </div>
             </div>
 
-            <!-- Pending Requests Card Example -->
+            <!-- Docker_Prod -->
             <div class="col-xl-3 col-md-6 mb-4">
               <div class="card border-left-warning shadow h-100 py-2">
                 <div class="card-body">
@@ -157,6 +157,21 @@ include('includes/navbar.php');
             </div>
           </div>
 
+            <!-- Jenkins -->
+            <div class="col-xl-3 col-md-6 mb-4">
+              <div class="card border-left-warning shadow h-100 py-2">
+                <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                      <div class="text-xs font-weight-bold text-warning text-uppercase mb-1"><a href="http://104.211.95.200:9090/" target="_blank">Docker Production </a></div>
+                      <div class="h5 mb-0 font-weight-bold text-gray-800">Production Environment</div>
+                    </div>
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
           <!-- Content Row -->
 
          
