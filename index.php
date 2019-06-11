@@ -156,7 +156,7 @@ include('includes/navbar.php');
               </div>
             </div>
           </div>
-
+            <div class="row">
             <!-- Jenkins -->
             <div class="col-xl-3 col-md-6 mb-4">
               <div class="card border-left-warning shadow h-100 py-2">
@@ -171,7 +171,6 @@ include('includes/navbar.php');
                 </div>
               </div>
             </div>
-          </div>
 
           <!-- Elastic_Search -->
             <div class="col-xl-3 col-md-6 mb-4">
@@ -187,7 +186,7 @@ include('includes/navbar.php');
                 </div>
               </div>
             </div>
-
+          </div>
           <!-- Content Row -->
 
          
