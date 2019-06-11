@@ -94,7 +94,7 @@ include('includes/navbar.php');
                 <div class="card-body">
                   <div class="row no-gutters align-items-center">
                     <div class="col mr-2">
-                      <div class="text-xs font-weight-bold text-primary text-uppercase mb-1"> <a href="https://uptimerobot.com/login?rt=https://uptimerobot.com/#mainDashboard"> Uptime Robot</a></div>
+                      <div class="text-xs font-weight-bold text-primary text-uppercase mb-1"> <a href="https://uptimerobot.com/login?rt=https://uptimerobot.com/#mainDashboard" target="_blank"> Uptime Robot</a></div>
                       <div class="h5 mb-0 font-weight-bold text-gray-800">Monitor</div>
                     </div>
                     
