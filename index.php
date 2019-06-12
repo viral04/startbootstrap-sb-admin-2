@@ -205,6 +205,23 @@ include('includes/navbar.php');
               </div>
             </div>
           </div>
+
+          <div class="row">
+          <!-- Architecture -->
+            <div class="col-xl-3 col-md-6 mb-4">
+              <div class="card border-left-warning shadow h-100 py-2">
+                <div class="card-body">
+                  <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                      <div class="text-s font-weight-bold text-success text-uppercase mb-2"> <a href="" target="_blank">Architecture </a></div>
+                      <div class="h5 mb-0 font-weight-bold text-gray-800">Server Layouts</div>
+                    </div>
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
           <!-- Content Row -->
 
          
