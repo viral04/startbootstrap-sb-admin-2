@@ -171,7 +171,7 @@ include('includes/navbar.php');
                 </div>
               </div>
             </div>
-          </div>
+          
 
           <!-- AWS -->
             <div class="col-xl-3 col-md-6 mb-4">
@@ -188,7 +188,7 @@ include('includes/navbar.php');
                 </div>
               </div>
             </div>
-          </div>
+          
 
           <!-- Azure -->
             <div class="col-xl-3 col-md-6 mb-4">
