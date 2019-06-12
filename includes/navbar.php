@@ -6,7 +6,7 @@
         <div class="sidebar-brand-icon">
         <img src="2.png" alt="Smiley face" width="50" height="60">
         </div>
-        <div class="h5 mb-0 font-weight-bold text-white-800">Adapty   Dashboard</div>
+        <div class="h5 mb-0 font-weight-bold text-white-800"></div>
 
       </a>
 
