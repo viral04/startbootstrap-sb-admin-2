@@ -2,13 +2,13 @@
     <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
       <!-- Sidebar - Brand -->
-      <a class="sidebar-brand d-flex align-items-center justify-content-center" href="">
-        <div class="sidebar-brand-icon">
-        <img src="2.png" alt="Smiley face" width="50" height="60">
-        </div>
-        <div class="h5 mb-0 font-weight-bold text-white-800"></div>
+      <!-- Sidebar - Brand -->
+      <a class="sidebar-brand d-flex align-items-center justify-content-center" href="#">
+<div class="sidebar-brand-icon">
+<img src="adapty.jpg" alt="Smiley face" width="150" height="75">
+</div>
 
-      </a>
+</a>
 
       
       

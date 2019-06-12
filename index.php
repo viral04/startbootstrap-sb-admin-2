@@ -28,7 +28,7 @@ include('includes/navbar.php');
           </button>
 
         <div class="nav-text align-items-center justify-content-between mb-4">
-            <h1 class="h10 mb-0 font-weight-bold text-black-5"><div class="nav-h1-text">Adapty Dashboard</div></h1>
+            <h1 class="h10 mb-0 font-weight-bold text-black-5"><div class="nav-h1-text">DevOps Dashboard</div></h1>
             
           </div>
 
