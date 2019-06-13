@@ -6,12 +6,18 @@ include('includes/navbar.php');
 
  <style type="text/css">
    .nav-h1-text{
-    background-color: hsl(213, 72%, 47%);
+    background-color: #4e73df;
     color: hsl(0, 0%, 100%);
     text-align: center;
   }
+  .bg-blue {
+  background-color: #4e73df  !important;
+}
   .nav-text{
     width:100%;
+  }
+  .collapse img:hover{
+    filter: scale(1.5);
   }
  </style>
 
@@ -22,7 +28,7 @@ include('includes/navbar.php');
       <div id="content">
 
         <!-- Topbar -->
-        <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
+        <nav class="navbar navbar-expand navbar-light bg-blue  topbar mb-4 static-top shadow">
 
           <!-- Sidebar Toggle (Topbar) -->
           <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
@@ -176,6 +182,7 @@ include('includes/navbar.php');
              </div>
                  
           <!-- Architecture -->
+          <div class="row">
             <div class="col-xl-3 col-md-6 mb-4">
               <div class="card border-left-warning shadow h-100 py-2">
                 <div class="card-body">
@@ -183,8 +190,8 @@ include('includes/navbar.php');
                     <div class="col mr-2">
 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
                      <!-- <i class="fas fa-fw fa-cog"></i> -->
-         <div class="h5 mb-0 font-weight-bold text-gray-800" 
-         <span> Architecture </span></a> </div>
+         <div class="h5 mb-0 font-weight-bold text-gray-800"> 
+         <span> Architecture </span> </div></a>
           <div id="collapseThree" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded ">
             <div class="h5 mb-0 font-weight-bold text-gray-800"
@@ -207,6 +214,7 @@ include('includes/navbar.php');
               </div>
             </div>
           </div>
+        </div>
 
 
 
