@@ -96,7 +96,7 @@ include('includes/navbar.php');
                 <div class="card-body">
                   <div class="row no-gutters align-items-center">
                     <div class="col mr-2">
-                      <div class="text-s font-weight-bold text-success text-uppercase mb-2"> <a href="http://104.211.95.200:8090/nagios/" target="_blank"> Nagios server </a></div>
+                      <div class="text-s font-weight-bold text-success text-uppercase mb-2"> <a href="http://nagios.thycart.net" target="_blank"> Nagios server </a></div>
                       <div class="h5 mb-0 font-weight-bold text-gray-800">Server Monitoring</div>
                     </div>
                     
@@ -111,7 +111,7 @@ include('includes/navbar.php');
                 <div class="card-body">
                   <div class="row no-gutters align-items-center">
                     <div class="col mr-2">
-                      <div class="text-s font-weight-bold text-info text-uppercase mb-2"> <a href="http://104.211.95.200:10000/#/containers" target="_blank"> Docker Dev </a></div>
+                      <div class="text-s font-weight-bold text-info text-uppercase mb-2"> <a href="http://dev-docker.thycart.net" target="_blank"> Docker Dev </a></div>
                       <div class="row no-gutters align-items-center">
                         <div class="col-auto">
                           <div class="h5 mb-0 mr-3 font-weight-bold text-gray-800">Dev Monitoring</div>
@@ -134,7 +134,7 @@ include('includes/navbar.php');
                 <div class="card-body">
                   <div class="row no-gutters align-items-center">
                     <div class="col mr-2">
-                      <div class="text-s font-weight-bold text-warning text-uppercase mb-2"><a href="http://52.172.128.181:10000/#/containers" target="_blank">Docker Production </a></div>
+                      <div class="text-s font-weight-bold text-warning text-uppercase mb-2"><a href="http://prod-docker.thycart.net" target="_blank">Docker Production </a></div>
                       <div class="h5 mb-0 font-weight-bold text-gray-800">Production Monitoring</div>
                     </div>
                     
@@ -150,7 +150,7 @@ include('includes/navbar.php');
                 <div class="card-body">
                   <div class="row no-gutters align-items-center">
                     <div class="col mr-2">
-                      <div class="text-s font-weight-bold text-warning text-uppercase mb-2"><a href="http://104.211.95.200:9090/" target="_blank">Jenkins Server </a></div>
+                      <div class="text-s font-weight-bold text-warning text-uppercase mb-2"><a href="http://jenkins.thycart.net" target="_blank">Jenkins Server </a></div>
                       <div class="h5 mb-0 font-weight-bold text-gray-800">Build Server</div>
                     </div>
                     
