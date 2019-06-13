@@ -150,7 +150,7 @@ include('includes/navbar.php');
                 <div class="card-body">
                   <div class="row no-gutters align-items-center">
                     <div class="col mr-2">
-                      <div class="text-s font-weight-bold text-warning text-uppercase mb-2"><a href="http://jenkins.thycart.net" target="_blank">Jenkins Server </a></div>
+                      <div class="text-s font-weight-bold text-warning text-uppercase mb-2"><a href="http://104.211.95.200:9090" target="_blank">Jenkins Server </a></div>
                       <div class="h5 mb-0 font-weight-bold text-gray-800">Build Server</div>
                     </div>
                     
