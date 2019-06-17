@@ -267,7 +267,7 @@ include('includes/navbar.php');
                             <div class="bg-white py-2 collapse-inner rounded ">
                                 <div class="h5 mb-0 font-weight-bold text-gray-800">
                                     <a class="collapse-item"  data-toggle="modal" data-target="#img1">
-                              
+                                
                                         <img src="azure.jpg" alt="Smiley face" width="200" height="200" >
                                     </a>
                                 </div>
