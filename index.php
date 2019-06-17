@@ -272,20 +272,22 @@ include('includes/navbar.php');
                                     </a>
                                 </div>
                                 <div class="bg-white py-2 collapse-inner rounded">
-                                    <a class="collapse-item" data-toggle="modal" data-target="#img2"  >Emadri<img src="emadri.jpg" alt="Smiley face" width="250" height="150">
+                                    <a class="collapse-item" data-toggle="modal" data-target="#img2"  >Emadri<img src="emadri.jpg" alt="Smiley face" width="200" height="200">
                                     </a>
                                 </div>
                                     <div class="bg-white py-2 collapse-inner rounded">
-                                        <a class="collapse-item"  >Azure Prod<img src="azure prod.jpg" alt="Smiley face" width="250" height="150">
+                                        <a class="collapse-item" data-toggle="modal" data-target="#img3"  >Azure Prod<img src="azure prod.jpg" alt="Smiley face" width="200" height="200">
                                         </a>
                                     </div>
                                     <div class="bg-white py-2 collapse-inner rounded">
-                                        <a class="collapse-item"  >AWS M2 
-                                            <img src="m2.jpg" alt="Smiley face" width="250" height="150">
+                                        <a class="collapse-item" data-toggle="modal" data-target="#img4
+                                      " >AWS M2 
+                                            <img src="m2.jpg" alt="Smiley face" width="200" height="200">
                                         </a>
                                     </div>
                                     <div class="bg-white py-2 collapse-inner rounded">
-                                        <a class="collapse-item"  >Domain List<img src="domain.jpg" alt="Smiley face" width="250" height="150">
+                                        <a class="collapse-item" data-toggle="modal" data-target="#img5
+                                      "  >Domain List<img src="domain.jpg" alt="Smiley face" width="200" height="200">
                                         </a>
                                     </div>
                             </div>
@@ -320,6 +322,48 @@ include('includes/navbar.php');
       </div>
       <div class="modal-body">
        <img src="emadri.jpg" alt="Smiley face"/>
+      </div>       
+    </div>
+  </div>
+</div>
+
+<div id="img3" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>         
+      </div>
+      <div class="modal-body">
+       <img src="azure prod.jpg" alt="Smiley face"/>
+      </div>       
+    </div>
+  </div>
+</div>
+
+<div id="img4" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>         
+      </div>
+      <div class="modal-body">
+       <img src="m2.jpg" alt="Smiley face"/>
+      </div>       
+    </div>
+  </div>
+</div>
+
+<div id="img5" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>         
+      </div>
+      <div class="modal-body">
+       <img src="domain.jpg" alt="Smiley face"/>
       </div>       
     </div>
   </div>
