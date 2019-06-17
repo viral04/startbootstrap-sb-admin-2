@@ -282,7 +282,7 @@ include('includes/navbar.php');
                                     <div class="bg-white py-2 collapse-inner rounded">
                                         <a class="collapse-item" data-toggle="modal" data-target="#img4
                                       " >
-                                            <img src="m2.jpg" alt="Smiley face" width="200" height="200">
+                                            <img src="m3.jpg" alt="Smiley face" width="200" height="200">
                                         </a>
                                     </div>
                                     <div class="bg-white py-2 collapse-inner rounded">
@@ -349,7 +349,7 @@ include('includes/navbar.php');
         <button type="button" class="close" data-dismiss="modal">&times;</button>         
       </div>
       <div class="modal-body">
-       <img src="m2.jpg" alt="Smiley face"/>
+       <img src="m3.jpg" alt="Smiley face"/>
       </div>       
     </div>
   </div>
