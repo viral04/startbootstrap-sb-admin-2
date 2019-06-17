@@ -267,27 +267,27 @@ include('includes/navbar.php');
                             <div class="bg-white py-2 collapse-inner rounded ">
                                 <div class="h5 mb-0 font-weight-bold text-gray-800">
                                     <a class="collapse-item"  data-toggle="modal" data-target="#img1">
-                                        <span>Azure layout</span>
+                              
                                         <img src="azure.jpg" alt="Smiley face" width="200" height="200" >
                                     </a>
                                 </div>
                                 <div class="bg-white py-2 collapse-inner rounded">
-                                    <a class="collapse-item" data-toggle="modal" data-target="#img2"  >Emadri<img src="emadri.jpg" alt="Smiley face" width="200" height="200">
+                                    <a class="collapse-item" data-toggle="modal" data-target="#img2"  ><img src="emadri.jpg" alt="Smiley face" width="200" height="200">
                                     </a>
                                 </div>
                                     <div class="bg-white py-2 collapse-inner rounded">
-                                        <a class="collapse-item" data-toggle="modal" data-target="#img3"  >Azure Prod<img src="azure prod.jpg" alt="Smiley face" width="200" height="200">
+                                        <a class="collapse-item" data-toggle="modal" data-target="#img3"  ><img src="azure prod.jpg" alt="Smiley face" width="200" height="200">
                                         </a>
                                     </div>
                                     <div class="bg-white py-2 collapse-inner rounded">
                                         <a class="collapse-item" data-toggle="modal" data-target="#img4
-                                      " >AWS M2 
+                                      " >
                                             <img src="m2.jpg" alt="Smiley face" width="200" height="200">
                                         </a>
                                     </div>
                                     <div class="bg-white py-2 collapse-inner rounded">
                                         <a class="collapse-item" data-toggle="modal" data-target="#img5
-                                      "  >Domain List<img src="domain.jpg" alt="Smiley face" width="200" height="200">
+                                      "  ><img src="domain.jpg" alt="Smiley face" width="200" height="200">
                                         </a>
                                     </div>
                             </div>
