@@ -244,6 +244,21 @@ include('includes/navbar.php');
 </div>
 </div>
 
+<!-- Elastic_Search -->
+<div class="col-xl-3 col-md-6 mb-4">
+  <div class="card border-left-warning shadow h-100 py-2">
+    <div class="card-body">
+      <div class="row no-gutters align-items-center">
+        <div class="col mr-2">
+          <div class="text-s font-weight-bold text-success text-uppercase mb-2"> <a href="https://docs.google.com/spreadsheets/d/1H5ZTY379kDZkvLA7UvvNko8btwVzpAt2I5gthZWR0Eg/edit?ts=5d149a01#gid=1890099927" target="_blank"> Site Uptime Reports </a></div>
+          <div class="h5 mb-0 font-weight-bold text-gray-800">Logs Report</div>
+      </div>
+
+  </div>
+</div>
+</div>
+</div>
+
 
 <!-- images -->
 
@@ -267,7 +282,7 @@ include('includes/navbar.php');
                             <div class="bg-white py-2 collapse-inner rounded ">
                                 <div class="h5 mb-0 font-weight-bold text-gray-800">
                                     <a class="collapse-item"  data-toggle="modal" data-target="#img1">
-                              
+                                
                                         <img src="azure.jpg" alt="Smiley face" width="200" height="200" >
                                     </a>
                                 </div>
