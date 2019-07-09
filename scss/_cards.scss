@@ -1,6 +1,7 @@
 // Custom Card Styling
 
 .card {
+  transition: all .3s ease-out;
   .card-header {
     // Format Dropdowns in Card Headings
     .dropdown {
@@ -32,5 +33,9 @@
         content: '\f105';
       }
     }
+  }
+  &:hover {
+    transform: scale(1.1);
+    box-shadow: $box-shadow !important;
   }
 }

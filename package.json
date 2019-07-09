@@ -1,0 +1,30 @@
+{
+  "name": "startbootstrap-sb-admin-2",
+  "version": "1.0.0",
+  "description": "Dashboard \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass scss\\sb-admin-2.scss css/main.style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viral04/startbootstrap-sb-admin-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viral04/startbootstrap-sb-admin-2/issues"
+  },
+  "homepage": "https://github.com/viral04/startbootstrap-sb-admin-2#readme",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
+
+
+
+
+npm 
+npm install
+
+npm run compile:sass

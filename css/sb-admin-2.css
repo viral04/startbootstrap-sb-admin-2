@@ -8345,7 +8345,7 @@ button.bg-dark:focus {
   white-space: normal;
 }
 
-.shadow-sm {
+/* .shadow-sm {
   -webkit-box-shadow: 0 0.125rem 0.25rem 0 rgba(58, 59, 69, 0.2) !important;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(58, 59, 69, 0.2) !important;
 }
@@ -8363,7 +8363,7 @@ button.bg-dark:focus {
 .shadow-none {
   -webkit-box-shadow: none !important;
   box-shadow: none !important;
-}
+} */
 
 .w-25 {
   width: 25% !important;
